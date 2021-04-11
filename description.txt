@@ -1,3 +1,4 @@
 High-contrast texture pack for MineClone 2.
 Created by fisherbait
 Size: 64x64 px
+16-bit precision PNG
